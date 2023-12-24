@@ -1,0 +1,7 @@
+0 Two Hundred (200 L.E)
+1 One Hundred (100 L.E)
+2 Fifty pounds (50 L.E)
+3  Twenty Pounds (20 L.E)
+4 Ten pounds (10 L.E)
+5 Five Pounds (5 L.E)
+6 One pounds (1 L.E)

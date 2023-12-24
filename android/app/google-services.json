@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38323699024",
+    "project_id": "life-s-interests-e25c2",
+    "storage_bucket": "life-s-interests-e25c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38323699024:android:b8008702fec57d81b00055",
+        "android_client_info": {
+          "package_name": "com.example.gp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wJ3wSf-gx4nALxu1PmDXotaTus1Od0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38323699024:android:9e9730590bf585c1b00055",
+        "android_client_info": {
+          "package_name": "com.example.lifs_interstes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wJ3wSf-gx4nALxu1PmDXotaTus1Od0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
