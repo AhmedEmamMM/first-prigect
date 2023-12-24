@@ -122,6 +122,7 @@ class _HomeState extends State<Scan> {
   // function to get the label of the photo
   void getImageLabel(XFile image) async{
     final inputImage = InputImage.fromFilePath(image.path);
+        // varible or the custom model  
     // final modelPath = await getModelPath('assets/ml/model_unquant.tflite');
     // final options = LocalLabelerOptions(
     //   confidenceThreshold: 0.5,
